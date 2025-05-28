@@ -8,6 +8,7 @@
  
  
  ▶️ [Demo Server Setup video](https)
+ 
 ✅ Termux uses its own package manager (`pkg`), and it has its own repositories.
 ✅ The **`qemu-system-x86-64-headless`** package does not exist in Termux.
 ✅ Instead, Termux provides the **`qemu-system-x86_64`** package, which can be used in headless mode as well.
@@ -17,7 +18,7 @@
 ### How to install QEMU in Termux
 
 ###  **Update Termux**
-📥[ Windows 10](https://drive.google.com/uc?export=download&id=1FbymOjzMGydmeZ7K5dZxBK6efA3iakNn)
+# 📥[ Windows 10](https://drive.google.com/uc?export=download&id=1FbymOjzMGydmeZ7K5dZxBK6efA3iakNn)
 ```
 pkg update && pkg upgrade
 ```
