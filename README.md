@@ -1,10 +1,12 @@
  # Windows 10 Pro
 <a href="https://youtu.be/_LZpwUM91UU" target="_blank">
-  <img src="https://raw.githubusercontent.com/Masterdas/Kali-Linux/refs/heads/main/windows.jpg" alt="Android Kali Image">
+  <img src="https://github.com/Masterdas/Windows/blob/main/windows.jpg?raw=true" alt="Android Windows Image">
 </a>
 
-[VNC App Download link](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)
+# [VNC App Download link](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)
 ---
+ 
+ 
  ▶️ [Demo Server Setup video](https)
 ✅ Termux uses its own package manager (`pkg`), and it has its own repositories.
 ✅ The **`qemu-system-x86-64-headless`** package does not exist in Termux.
